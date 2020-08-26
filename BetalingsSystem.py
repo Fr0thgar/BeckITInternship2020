@@ -1,3 +1,7 @@
+
+
+#Dette er test kode i forbindelse med betalings metode research
+
 from tkinter import*
 from tkinter import ttk
 import random
